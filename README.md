@@ -1,5 +1,23 @@
 # Titanic-Survival-Prediction
 
+## Language Used
+
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
+## Required Libraries
+
+1. pandas
+2. numpy
+3. seaborn
+4. matplotlib
+5. sklearn
+6. six
+7. pydotplus
+8. IPython.display
+
+
+## Description
+
 In this small project I predicted the survival of passengers using the famous Titanic Dataset. 
 
 Decription about the dataset can be found here :
